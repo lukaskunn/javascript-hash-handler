@@ -1,0 +1,11 @@
+{
+  "name": "python-hash-handler",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/lukaskunn/python-hash-handler.git",
+  "author": "Lucas Oliveira <lucassioliveira098@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "crypto": "^1.0.1"
+  }
+}
